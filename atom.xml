@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>烈焰微笑</title>
-  <subtitle>jieyingSmile&#39;s personal blog!</subtitle>
+  <title>白鸟集</title>
+  <subtitle>逻格斯隐藏在地底，白鸟追寻它飞翔。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>jieyingSmile</name>
+    <name>杰樱</name>
     
   </author>
   
